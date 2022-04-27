@@ -88,3 +88,11 @@ module.exports = stockController
                 console.log(totalsale);    
             })
            "status":1,"timestamps.createdAt":1, 
+
+       items: [{
+        item: { 
+        name: String,
+       image: String,
+        price: Number,
+        size: String
+    }}]

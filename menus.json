@@ -1,65 +1,373 @@
-[{
-  "_id": {
-    "$oid": "5eee651f739f8c674fd736ee"
-  },
-  "name": "Amul",
-  "image": "amul.jpg",
-  "price": "250",
-  "size": "small"
-},{
-  "_id": {
-    "$oid": "5eee6671a27a66807cf2bea3"
-  },
-  "name": "Amul Masty",
-  "image": "milk1.jpeg",
-  "price": "300",
-  "size": "medium"
-},{
-  "_id": {
-    "$oid": "5eee6692a27a66807cf2bea4"
-  },
-  "name": "AmulButter Milk",
-  "image": "milk2.jpeg",
-  "price": "200",
-  "size": "small"
-},{
-  "_id": {
-    "$oid": "5eee66a5a27a66807cf2bea5"
-  },
-  "name": "Amul Cow milk",
-  "image": "milk3.jpeg",
-  "price": "500",
-  "size": "small"
-},{
-  "_id": {
-    "$oid": "5eee66c4a27a66807cf2bea6"
-  },
-  "name": "Amul Taza",
-  "image": "milk4.jpeg",
-  "price": "350",
-  "size": "medium"
-},{
-  "_id": {
-    "$oid": "5eee66cfa27a66807cf2bea7"
-  },
-  "name": "Amul Gold",
-  "image": "milk5.jpeg",
-  "price": "200",
-  "size": "small"
-},{
-  "_id": {
-    "$oid": "5eee66eea27a66807cf2bea8"
-  },
-  "name": "Natural Milk",
-  "image": "milk6.jpeg",
-  "price": "600",
-  "size": "large"
-},{ 
-  "_id": {
-    "$oid": "5eee6717a27a66807cf2bea9"
-  },
-  "name": "Magnolia Cream Milk",
-  "image": "milk7.jpeg",
-  "price": "500",
-  "size": "medium"
-}]
+[
+    {
+        "_id": {
+            "$oid": "5eee651f739f8c674fd736uu"
+        },
+        "name": "Amul",
+        "image": "amul.jpg",
+        "price": "250"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6671a27a66807cf4tga3"
+        },
+        "name": "Amul Masty",
+        "image": "milk1.jpeg",
+        "price": "300"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6692a27a66807cf8jka4"
+        },
+        "name": "AmulButter Milk",
+        "image": "milk2.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6692a27a66807cf2hha4"
+        },
+        "name": "Shreedhi TAZZA",
+        "image": "aj33.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5nnn66a5a27a66807cf2bea5"
+        },
+        "name": "Amul Cow milk",
+        "image": "milk3.jpeg",
+        "price": "500"
+    },
+    {
+        "_id": {
+            "$oid": "5jkf66c4a27a66807cf2bea6"
+        },
+        "name": "Amul Taza",
+        "image": "milk4.jpeg",
+        "price": "350"
+    },
+    {
+        "_id": {
+            "$oid": "5sdf66cfa27a66807cf2bea7"
+        },
+        "name": "Amul Gold",
+        "image": "milk5.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5kle66eea27a66807cf2bea8"
+        },
+        "name": "Natural Milk",
+        "image": "milk6.jpeg",
+        "price": "600"
+    },
+    {
+        "_id": {
+            "$oid": "5yue6717a27a66807cf2bea9"
+        },
+        "name": "Magnolia Cream Milk",
+        "image": "milk7.jpeg",
+        "price": "500"
+    },
+    {
+        "_id": {
+            "$oid": "5hke6717a27a66807cf2be10"
+        },
+        "name": "Nestle A+ Nourish Dahi",
+        "image": "aj1.jpg",
+        "price": "300"
+    },
+    {
+        "_id": {
+            "$oid": "5ase6717a27a66807cf2be11"
+        },
+        "name": "Amul Mithai Mate",
+        "image": "aj2.jpg",
+        "price": "500"
+    },
+    {
+        "_id": {
+            "$oid": "5dfe6717a27ahjd07cf2be12"
+        },
+        "name": "Mother Dairy Ghee",
+        "image": "aj3.jpg",
+        "price": "600"
+    },
+    {
+        "_id": {
+            "$oid": "5the6717a27a66807cf2bea13"
+        },
+        "name": "Gowardhan Dahi",
+        "image": "aj4.jpg",
+        "price": "350"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6717a27a66807cf2bea14"
+        },
+        "name": "Nestle Everyday Shahi Ghee",
+        "image": "aj5.jpg",
+        "price": "650"
+    },
+    {
+        "_id": {
+            "$oid": "5eko6717a27a66807cf2be15"
+        },
+        "name": "Mother Dairy Ultimate Dahi",
+        "image": "aj6.jpg",
+        "price": "300"
+    },
+    {
+        "_id": {
+            "$oid": "5hde6717a27a66807cf2be16"
+        },
+        "name": "Britannia Butter",
+        "image": "aj7.webp",
+        "price": "400"
+    },
+    {
+        "_id": {
+            "$oid": "5bge6717a27a66807cf2be17"
+        },
+        "name": "Britannia Dairy Whitener",
+        "image": "aj8.webp",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5eqe6717a27a66807cf2be18"
+        },
+        "name": "Mother Dairy Cheese Slices",
+        "image": "aj9.webp",
+        "price": "400"
+    },
+    {
+        "_id": {
+            "$oid": "5ekd6717a27a66807cf2be19"
+        },
+        "name": "Gowardhan Ghee",
+        "image": "aj10.webp",
+        "price": "625"
+    },
+    {
+        "_id": {
+            "$oid": "5eqc6717a27a66807cf2be20"
+        },
+        "name": "Amul Lassi",
+        "image": "aj11.webp",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5ehn6717a27a66807cf2be21"
+        },
+        "name": "Mother Dairy Lassi",
+        "image": "aj12.webp",
+        "price": "250"
+    },
+    {
+        "_id": {
+            "$oid": "5e896717a27agh607cf2be22"
+        },
+        "name": "Britannia Pure Ghee",
+        "image": "aj13.webp",
+        "price": "600"
+    },
+    {
+        "_id": {
+            "$oid": "556e6717a27a66gj7cf2be23"
+        },
+        "name": "WINKIN COW Thick Lassi",
+        "image": "aj14.webp",
+        "price": "300"
+    },
+    {
+        "_id": {
+            "$oid": "578e6717a27a6ygh8cf2be24"
+        },
+        "name": "Britannia Tonned Milk",
+        "image": "aj15.jpg",
+        "price": "150"
+    },
+    {
+        "_id": {
+            "$oid": "5e676717a27a66908cf4hj25"
+        },
+        "name": "Nestle A+ Nourish Milk",
+        "image": "aj16.webp",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5e326717a27aggg12cf2be26"
+        },
+        "name": "Amul Taaza Milk",
+        "image": "aj17.webp",
+        "price": "250"
+    },
+    {
+        "_id": {
+            "$oid": "5e906717a27a0ko07cf2be27"
+        },
+        "name": "Amul Cheese",
+        "image": "aj18.png",
+        "price": "400"
+    },
+    {
+        "_id": {
+            "$oid": "5e7i6717a27a22807cf2be28"
+        },
+        "name": "Amul Butter",
+        "image": "aj19.png",
+        "price": "500"
+    },
+    
+    {
+        "_id": {
+            "$oid": "5eyk1117a27a78807cf2be30"
+        },
+        "name": "Amul Masti Dahi",
+        "image": "aj21.jpg",
+        "price": "300"
+    },
+    
+    {
+        "_id": {
+            "$oid": "5ekl9027a27a66807cf2be32"
+        },
+        "name": "Britannia Cheese Slices",
+        "image": "aj23.jpg",
+        "price": "400"
+    },
+    {
+        "_id": {
+            "$oid": "5eee76r7457a66807cf2be33"
+        },
+        "name": "Gowardhan Butter",
+        "image": "aj24.jpg",
+        "price": "400"
+    },
+    {
+        "_id": {
+            "$oid": "5eeg7817a27a89807cf2be34"
+        },
+        "name": "Britannia Daily Fresh Dahi",
+        "image": "aj25.png",
+        "price": "500"
+    },
+    
+    {
+        "_id": {
+            "$oid": "5eey3718927a66807cf2be36"
+        },
+        "name": "Gowardhan Gold Milk",
+        "image": "aj27.png",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5eeey757a27a66807cf2be37"
+        },
+        "name": "Mother Dairy Butter",
+        "image": "aj28.jpg",
+        "price": "500"
+    },
+    {
+        "_id": {
+            "$oid": "5vvv7889a27a66807cf2be38"
+        },
+        "name": "Mother Dairy Tonned Milk",
+        "image": "aj29.png",
+        "price": "250"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6c9a27a66807cf2be39"
+        },
+        "name": "Nestle Milkmaid",
+        "image": "aj30.jpg",
+        "price": "300"
+    },
+    {
+        "_id": {
+            "$oid": "59knj6734a27a66807cf2be40"
+        },
+        "name": "Nestle Everyday Thicker",
+        "image": "aj31.jpg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5juv6717a27a66807cf2be40"
+        },
+        "name": "Amul Gold",
+        "image": "aj32.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5kjo6677a27a66807cf2be40"
+        },
+        "name": "Nestle Everyday Thicker",
+        "image": "aj31.jpg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6723a27a6j807cf2be41"
+        },
+        "name": "Star Milk",
+        "image": "aj34.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5dfg6717a27a66807cf2be42"
+        },
+        "name": "Goodday Fresh Milk",
+        "image": "aj35.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6797a27a66807cfghe43"
+        },
+        "name": "Pure & Best Fresh Milk",
+        "image": "aj36.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5hjk6897a27a66807cf2be44"
+        },
+        "name": "Kotmale Fresh Milk",
+        "image": "aj37.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5ccl6907a27a66807cf2be45"
+        },
+        "name": "Cavin's Milk",
+        "image": "aj38.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5asd6756a27a66807cf2be46"
+        },
+        "name": "Amul Deshi",
+        "image": "aj39.jpeg",
+        "price": "200"
+    },
+    {
+        "_id": {
+            "$oid": "5hhh3417a27a66807cf2be47"
+        },
+        "name": "Sarda Farms",
+        "image": "aj40.jpeg",
+        "price": "200"
+    }
+]

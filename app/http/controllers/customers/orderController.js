@@ -10,6 +10,7 @@ function orderController () {
                 return res.status(422).json({ message : 'All fields are required' });
             }
 
+            
             const order = new Order({
                 customerId: req.user._id,
                 username: req.user.name,
@@ -19,7 +20,7 @@ function orderController () {
                 price
             })
             order.save().then(result => {
-                Order.populate(result, { path: 'customerId', }, (err, placedOrder) => {
+                Order.populate(result, { path: 'customerId' }, (err, placedOrder) => {
                     // req.flash('success', 'Order placed successfully')
 
                     // Stripe payment
