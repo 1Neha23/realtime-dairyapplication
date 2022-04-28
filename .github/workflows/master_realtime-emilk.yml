@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'realtime-Emilk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_707112E53D9F4AFAA1A43179D20079A9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B81286EC85F849529FF7B0C16DB11BB9 }}
           package: .
