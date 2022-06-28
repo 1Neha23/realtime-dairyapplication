@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node server.js"
   }
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@stripe/stripe-js": "^1.10.0",
